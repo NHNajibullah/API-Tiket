@@ -1,0 +1,39 @@
+body{
+	background:url("img/bg-body.jpg") no-repeat center center;
+}
+header{
+	color:white;
+	font-weight:bold;
+}
+header i,
+header a{
+	color:white;
+}
+header i:hover,
+header a:hover{
+	color:white;
+	background:none;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:none;
+	background:none;
+}
+footer{
+	font-weight:bold;
+	background:url("img/bg-footer.png") repeat-x center bottom;
+	padding-top:25px;
+	padding-bottom:5px;
+	margin-top:45px;
+}
+footer p{
+	color:white;
+}
+.highlight a{
+	color:#be0000;
+}
+.highlight a:hover{
+	background:none;
+	color:white;
+	text-decoration:none;
+}
